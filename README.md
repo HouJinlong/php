@@ -14,6 +14,7 @@
 # 学习历程
 学习了PHP -> 基本手写理解原理 -> 自己封装类理解类的原理 -> 使用封装好的类优化代码
 # 截图
-![预览图](http://orfd0ppp9.bkt.clouddn.com/php2017630-85137.jpg)
 ![预览图](http://orfd0ppp9.bkt.clouddn.com/php2017630-85033.jpg)
-![预览图](http://orfd0ppp9.bkt.clouddn.com/php2017630-85120.jpg）
+![预览图](http://orfd0ppp9.bkt.clouddn.com/php2017630-85137.jpg)
+![预览图](http://orfd0ppp9.bkt.clouddn.com/php2017630-85120.jpg)
+
