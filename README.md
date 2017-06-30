@@ -2,7 +2,7 @@
 
 我将该项目整理了一个思维导图，并逐渐完善，以曾强理解，有兴趣可以看看
 
-[日记管理系统](http://naotu.baidu.com/file/37fc8f34cbd519fc0247b31abed59bbd)
+[日记管理系统](http://naotu.baidu.com/file/37fc8f34cbd519fc0247b31abed59bbd?token=a2317a0547656a6d)
 
 [文件上传](http://naotu.baidu.com/file/ccd21a7163c5b78cf32e231f2dd5d62b?token=49c135080ef73400)
 # 日记管理系统
