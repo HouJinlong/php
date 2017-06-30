@@ -1,7 +1,9 @@
 学海无涯，不要为自己的未来早早定界！
 
 我将该项目整理了一个思维导图，并逐渐完善，以曾强理解，有兴趣可以看看
+
 [日记管理系统](http://naotu.baidu.com/file/37fc8f34cbd519fc0247b31abed59bbd)
+
 [文件上传](http://naotu.baidu.com/file/ccd21a7163c5b78cf32e231f2dd5d62b?token=49c135080ef73400)
 # 日记管理系统
 学习php的一个练习项目，最全的基本上php开发常用的都用上了，但也是最乱的，哈哈！
